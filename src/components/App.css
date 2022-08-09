@@ -1,0 +1,15 @@
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h1 {
+  width: 100%;
+  text-align: center;
+}
+
+.container {
+  margin: 20px;
+  border: 1px solid #ccc;
+}

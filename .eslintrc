@@ -1,0 +1,22 @@
+{
+    "parserOptions": {
+        "ecmaFeatures": {
+            "jsx": true
+        }
+    },
+    "extends": [
+        "airbnb"
+    ],
+    "rules": {
+        "react/jsx-filename-extension": "off"
+    },
+    "env": {
+        "browser": true,
+        "jest": true
+    },
+    "settings": {
+        "react": {
+            "version": "detect"
+        }
+    }
+}
