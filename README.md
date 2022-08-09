@@ -1,5 +1,7 @@
 <div id="top"></div>
 
+[![Build][build-shield]][build-url]
+[![Coverage][coverage-shield]][coverage-url]
 [![Language][language-shield]][language-url]
 [![MIT License][license-shield]][license-url]
 
@@ -23,6 +25,12 @@
 ## License
 
 MIT License. See `LICENSE.txt` for more information.
+
+[build-shield]: https://img.shields.io/github/workflow/status/hackercowboy/react-todo-playground/Verify.svg?style=for-the-badge
+[build-url]: https://github.com/hackercowboy/react-todo-playground/actions/workflows/ci.yml
+[coverage-shield]: https://img.shields.io/coveralls/github/hackercowboy/react-todo-playground.svg?style=for-the-badge
+[coverage-url]: https://coveralls.io/github/hackercowboy/react-todo-playground
+
 
 [language-shield]: https://img.shields.io/github/languages/top/hackercowboy/react-todo-playground.svg?style=for-the-badge
 [language-url]: https://github.com/hackercowboy/react-todo-playground
