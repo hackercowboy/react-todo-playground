@@ -26,7 +26,7 @@
 
 MIT License. See `LICENSE.txt` for more information.
 
-[build-shield]: https://img.shields.io/github/workflow/status/hackercowboy/react-todo-playground/Verify.svg?style=for-the-badge
+[build-shield]: https://img.shields.io/github/workflow/status/hackercowboy/react-todo-playground/CI.svg?style=for-the-badge
 [build-url]: https://github.com/hackercowboy/react-todo-playground/actions/workflows/ci.yml
 [coverage-shield]: https://img.shields.io/coveralls/github/hackercowboy/react-todo-playground.svg?style=for-the-badge
 [coverage-url]: https://coveralls.io/github/hackercowboy/react-todo-playground
